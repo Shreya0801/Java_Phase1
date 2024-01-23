@@ -27,7 +27,7 @@ public class MyJavaClass {
 		 * boolean 1bit   false
 		 * 
 		 */
-		int x=1002;
+		int x=100;
 		System.out.println("x = "+x);
 		float f1=99.9f;
 		System.out.println("f = "+f1);
